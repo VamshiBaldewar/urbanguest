@@ -115,7 +115,7 @@ const Contact = () => {
               <div className="contact-icon">📍</div>
               <div className="contact-details">
                 <h4>Address</h4>
-                <p>Innov8 Pranava Business Park, 7th Floor, Pranava Business Park, Beside Harsha Toyota Showroom, Kothaguda, Telangana 500084</p>
+                <p>Regus, 1502,1504, 15th floor, Asian Suncity,  Kondapur, Forest Dept Colony, Gachibowli, Hyderabad, Telangana 500084</p>
               </div>
             </div>
             
